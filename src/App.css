@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+input {
+  margin-right: 10px;
+  padding: 5px;
+}
+.error {
+  margin-right: 10px;
+  padding: 5px;
+  border-color: red;
+}
+
+button {
+  padding: 5px 10px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 20px 0;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+li h3 {
+  margin: 0;
+}
+
+li button {
+  margin-left: 10px;
+}
